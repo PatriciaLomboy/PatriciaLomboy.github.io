@@ -1,0 +1,13 @@
+body{
+	background-color: LightPink;
+}
+h1{
+	color: DeepSkyBlue;
+	text-align: center;
+	font-style: bold;
+	font-family: "Lucida Console", Monaco, monospace;
+}
+h2{
+	color: Crimson;
+}
+
