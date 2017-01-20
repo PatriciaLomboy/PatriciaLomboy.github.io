@@ -9,5 +9,13 @@ h1{
 }
 h2{
 	color: Crimson;
+
+}
+header{
+    padding: lem;
+    color: white;
+    background-color: LightPink;
+    clear: left;
+    text-align: center;
 }
 
